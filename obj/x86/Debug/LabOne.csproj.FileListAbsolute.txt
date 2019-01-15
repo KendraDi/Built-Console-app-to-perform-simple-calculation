@@ -1,0 +1,6 @@
+/Users/kendrawomble/Projects/LabOne/LabOne/obj/x86/Debug/LabOne.csprojAssemblyReference.cache
+/Users/kendrawomble/Projects/LabOne/LabOne/obj/x86/Debug/LabOne.csproj.CoreCompileInputs.cache
+/Users/kendrawomble/Projects/LabOne/LabOne/bin/Debug/LabOne.exe
+/Users/kendrawomble/Projects/LabOne/LabOne/bin/Debug/LabOne.pdb
+/Users/kendrawomble/Projects/LabOne/LabOne/obj/x86/Debug/LabOne.exe
+/Users/kendrawomble/Projects/LabOne/LabOne/obj/x86/Debug/LabOne.pdb
